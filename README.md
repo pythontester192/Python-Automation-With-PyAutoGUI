@@ -4,4 +4,4 @@
 • Install the latest version of Python.<br>
 • Install PyAutoGUI Library: pip install pyautogui<br>
 • Make sure to watch this full tutorial on how to use pyautogui to make your own python scripts.<br>
-  > 
+  > https://youtu.be/DW8E9V96D6c
